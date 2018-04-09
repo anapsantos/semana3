@@ -1,0 +1,72 @@
+
+
+div.container {
+    width: 100%;
+    border: 4px solid red;
+}
+
+.nav {
+        background-color: pink;
+        color:red;
+        padding:15px;
+    }
+
+aside { 
+    background-color: white;
+    float: left;
+    margin-right: 80px
+ }
+.aside{
+        
+        color: blue;
+        padding: 2px;
+
+        }
+h4{
+    color:grey;
+}
+h2{
+    color:red;
+    background-color: yellow
+}
+p{
+    color:black;
+    font-family: "helvetica"
+
+
+}
+header, footer {
+    padding: 100px;
+    color: white;
+    background-color:grey;
+    clear: left;
+    text-align: right;
+}
+
+h1 {
+	text-align: left;
+    font-family: "helvetica"
+
+}
+
+a {
+	text-transform: bold;
+	color: red;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 100px;
+}
+
+
+
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
